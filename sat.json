@@ -1,0 +1,11 @@
+{
+  "test_name": "SAT",
+  "registration_deadline": "2024-08-09T23:59:59Z",
+  "test_date": "2024-08-24T00:00:00Z",
+  "fee_in_dollar": 68.00,
+  "todos": [
+    "Update subject knowledge information",
+    "Register for test before the deadline"
+  ],
+  "source": "https://satsuite.collegeboard.org/sat/dates-deadlines"
+}
