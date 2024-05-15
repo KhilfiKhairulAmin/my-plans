@@ -14,31 +14,38 @@
     "Science and Math",
     "Arts + Academics"
   ],
-  "school_of_computer_science": {
+  "school_of_computer_science":
+  {
     "acronym": "SCS",
-    "office_of_admission": {
+    "office_of_admission":
+    {
       "address": "Warner Hall\n5000 Forbes Avenue\nPittsburgh, PA 15213",
       "phone": "412.268.2082",
       "email": "admission@andrew.cmu.edu"
     },
     "website": "https://www.cs.cmu.edu/",
-    "programs": {
-      "artificial_intelligence": {
-        "program_name": "Bachelor of Science in Artificial Intelligence",
-        "email": "bsai@cs.cmu.edu",
-        "source": "https://www.cs.cmu.edu/bs-in-artificial-intelligence/",
-        "curriculum": "https://www.cs.cmu.edu/bs-in-artificial-intelligence/curriculum",
-        "roadmap": "https://www.cs.cmu.edu/bs-in-artificial-intelligence/program-roadmap",
-        "prerequisite_action": [
-          "Do the following actions during mid-semester of Spring in your Sophomore year",
-          "Fill Internal Transfer Form",
-          "Write 1-2 page essay about interest and experience in AI"
-        ],
-        "prerequisite_courses": [
-          "AI: Representation and Problem Solving (15-281)",
-          "Machine Learning (10-315)"
-        ]
+    "programs": [
+      {
+        "artificial_intelligence":
+        {
+          "program_name": "Bachelor of Science in Artificial Intelligence",
+          "email": "bsai@cs.cmu.edu",
+          "website": "https://www.cs.cmu.edu/bs-in-artificial-intelligence/",
+          "curriculum": "https://www.cs.cmu.edu/bs-in-artificial-intelligence/curriculum",
+          "roadmap": "https://www.cs.cmu.edu/bs-in-artificial-intelligence/program-roadmap",
+          "enrollment_limit": 50,
+          "note": "The placement for A.I. is very competitive. I need to really shine to get my place at CMU.",
+          "prerequisite_action": [
+            "Transfer must apply during mid-semester of Spring in your Sophomore year",
+            "Fill Internal Transfer Form",
+            "Write 1-2 page essay about interest and experience in AI"
+          ],
+          "prerequisite_courses": [
+            "AI: Representation and Problem Solving (15-281)",
+            "Machine Learning (10-315)"
+          ]
+        }
       }
-    }
+    ]
   }
 }
