@@ -1,0 +1,44 @@
+{
+  "university_name": "Carnegie Mellon University",
+  "location": "Pittsburgh, Pennsylvania",
+  "university_type": "Private University",
+  "acceptance_rate": 0.11,
+  "phone": "+1 412-268-2000",
+  "majors_and_programs": [
+    "Arts",
+    "Business",
+    "Computer Science",
+    "Engineering",
+    "Humanities and Social Sciences",
+    "Information Systems",
+    "Science and Math",
+    "Arts + Academics"
+  ],
+  "school_of_computer_science": {
+    "acronym": "SCS",
+    "office_of_admission": {
+      "address": "Warner Hall\n5000 Forbes Avenue\nPittsburgh, PA 15213",
+      "phone": "412.268.2082",
+      "email": "admission@andrew.cmu.edu"
+    },
+    "website": "https://www.cs.cmu.edu/",
+    "programs": {
+      "artificial_intelligence": {
+        "program_name": "Bachelor of Science in Artificial Intelligence",
+        "email": "bsai@cs.cmu.edu",
+        "source": "https://www.cs.cmu.edu/bs-in-artificial-intelligence/",
+        "curriculum": "https://www.cs.cmu.edu/bs-in-artificial-intelligence/curriculum",
+        "roadmap": "https://www.cs.cmu.edu/bs-in-artificial-intelligence/program-roadmap",
+        "prerequisite_action": [
+          "Do the following actions during mid-semester of Spring in your Sophomore year",
+          "Fill Internal Transfer Form",
+          "Write 1-2 page essay about interest and experience in AI"
+        ],
+        "prerequisite_courses": [
+          "AI: Representation and Problem Solving (15-281)",
+          "Machine Learning (10-315)"
+        ]
+      }
+    }
+  }
+}
