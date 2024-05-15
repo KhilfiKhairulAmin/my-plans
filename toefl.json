@@ -1,0 +1,13 @@
+{
+  "test_name": "TOEFL",
+  "test_dates": [
+    "2024-06-08T09:00:00+08:00",
+    "2024-07-06T09:00:00+08:00",
+    "2024-08-21T09:00:00+08:00"
+  ],
+  "fee_in_dollar": 195.00,
+  "learning_resources": "https://drive.google.com/drive/folders/14grJhQMF0S7nEsYhJb_i-xYU9S2UiYdm?usp=sharing",
+  "future_notes": [
+    "Around RM1000 needed for the test"
+  ]
+}
