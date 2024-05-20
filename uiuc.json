@@ -1,0 +1,28 @@
+{
+  "university_name": "University of Illinois - Urbana Champaign",
+  "location": "Champaign, Illinois",
+  "type": "Public",
+  "acceptance_rate": 0.45,
+  "phone": "+1 217-333-1000",
+  "school_of_information_sciences": {
+    "related_program": "B.S. in Information Sciences + Data Sciences",
+    "": ""
+  },
+  "college_of_engineering": {
+    "name": "The Grainger College of Engineering",
+    "program": {
+      "data_science": {
+        "name": "B.S in Information Sciences + Data Sciences",
+        "website": "https://ischool.illinois.edu/degrees-programs/undergraduate/bs-data-science",
+        "cores": [
+          "Mathematics Foundations",
+          "Data Science Foundations",
+          "Computer Foundations",
+          "Social Impact in Data Science"
+        ],
+        "total_credits": 123,
+        "curriculum": "bsisds_curriculum2022.docx"
+      }
+    }
+  }
+}
