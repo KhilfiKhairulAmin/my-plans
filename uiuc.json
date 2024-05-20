@@ -5,23 +5,43 @@
   "acceptance_rate": 0.45,
   "phone": "+1 217-333-1000",
   "school_of_information_sciences": {
-    "related_program": "B.S. in Information Sciences + Data Sciences",
-    "": ""
-  },
-  "college_of_engineering": {
-    "name": "The Grainger College of Engineering",
+    "name": "School of Information Sciences",
     "program": {
       "data_science": {
         "name": "B.S in Information Sciences + Data Sciences",
         "website": "https://ischool.illinois.edu/degrees-programs/undergraduate/bs-data-science",
-        "cores": [
-          "Mathematics Foundations",
-          "Data Science Foundations",
-          "Computer Foundations",
-          "Social Impact in Data Science"
-        ],
+        "cores": {
+          "ds": {
+            "mathematical_foundations": [
+              "Calculus (MATH220)",
+              "Calculus I (MATH221)",
+              "Linear Algebra for Data Science (MATH227)",
+              "Linear Algebra with Computational Applications (MATH257)"
+            ],
+            "data_science_foundations": [
+              "Data Science Discovery (STAT/IS/CS 107)",
+              "Data Science Exploration (STAT207)",
+              "Modeling and Learning in Data Science (CS307)"
+            ],
+            "computational_fundamentals": [
+              "Algorithms and Data Structures for Data Science (CS227)"
+            ],
+            "social_impact_in_data_science": [
+              "Ethics and Policy for Data Science (IS467)",
+              "Data Management, Curation, and Reproducibility (IS477)"
+            ]
+          },
+          "is": [
+            "Introduction to the iSchool (IS100)",
+            "Introduction to Information Sciences (IS101)",
+            "Social Aspects of Information Technology (IS202)",
+            "Reseach Design for Information Sciences (IS204)",
+            "Introduction to Database Concepts and Applications (IS206)",
+            "Information Sciences and Culture (IS 308/309/310/311)"
+          ]
+        },
         "total_credits": 123,
-        "curriculum": "bsisds_curriculum2022.docx"
+        "curriculum": "https://go.ischool.illinois.edu/BSISDSdegreeplan"
       }
     }
   }
