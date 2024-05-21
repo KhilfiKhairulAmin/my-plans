@@ -1,0 +1,26 @@
+{
+  "university": "University of Pennsylvania",
+  "location": "Philadelphia, Pennsylvania",
+  "phone": "+1 215-898-5000",
+  "enrollment_2021_2022": 10644,
+  "type": "Private University",
+  "school_of_engineering_and_applied_sciences": {
+    "phone": "+1 215-898-7246",
+    "website": "https://www.seas.upenn.edu/",
+    "computer_science": {
+      "name": "Computer Science BSE (Bachelor of Science in Engineering in Computer Science )",
+      "related": "https://advising.cis.upenn.edu/tag_index/#rules",
+      "concentrations": [
+        "**only pick 1 concentration",
+        "Artificial Intelligence (4 CU)",
+        "Data Science (4 CU)"
+      ],
+      "requirements": "https://catalog.upenn.edu/undergraduate/programs/computer-science-bse/"
+    },
+    "artificial_intelligence": {
+      "name": "AI BSE (Bachelor of Science in Engineering in Artificial Intelligence)",
+      "curriculum": "https://ai.seas.upenn.edu/curriculum/",
+      "application_begin": "August 2024"
+    }
+  }
+}
